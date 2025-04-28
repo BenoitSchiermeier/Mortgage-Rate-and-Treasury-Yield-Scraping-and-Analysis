@@ -1,1 +1,5 @@
-# Mortgage-Rate-and-Treasury-Yield-Scraping-and-Analysis
+![Figure_5](https://github.com/user-attachments/assets/5a40b391-db28-4b4b-b0b5-11633586f1de)
+![Figure_4](https://github.com/user-attachments/assets/bb84d9e3-fe7d-4e39-92c0-566a710f9f01)
+![Figure_3](https://github.com/user-attachments/assets/1ab848eb-5513-4709-a632-f8e5eb0e2a1e)
+![Figure_2](https://github.com/user-attachments/assets/6dc74f4f-0e0c-4275-ae23-099a212f3cc4)
+![Figure_1](https://github.com/user-attachments/assets/c1f2d6e2-c4b4-4317-b3b9-7374adad4125)
