@@ -6,8 +6,10 @@
 
 2. Run the scripts:
 - `Question1.py`: Uses Selenium to open the HousingBrief website, extract historical 30-Year Fixed Mortgage Rate data from an embedded Highcharts object using JavaScript, clean the data, and save the last 10 years of mortgage rates into a CSV file.
-- `Question2.py`: Merges mortgage data with Treasury yields and calculates the spread
-- `Question2B.py`: Generates plots showing the evolution of correlations and betas
+- `Question2.py`: Loads the scraped mortgage rate data, pulls 10-year Treasury yield data from the FRED API, calculates the spread between mortgage rates and Treasury yields, and saves the result to a CSV file.
+- `Question2B.py`: Loads the merged mortgage and Treasury spread data, generates time-series, scatter, spread, rolling correlation, and rolling beta plots to visualize how the relationship between mortgage rates and Treasury yields has evolved over time.
+
+
 
 ## Tools Used
 - **Selenium** – for web scraping mortgage rate data
