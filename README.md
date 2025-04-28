@@ -5,7 +5,7 @@
 1. Install dependencies:
 
 2. Run the scripts:
-- `Question1.py`: Scrapes and saves 30-Year Fixed Mortgage Rate data from: https://housingbrief.com/mortgage-rates/67d80b67b658f8e76398a0c8
+- `Question1.py`: Uses Selenium to open the HousingBrief website, extract historical 30-Year Fixed Mortgage Rate data from an embedded Highcharts object using JavaScript, clean the data, and save the last 10 years of mortgage rates into a CSV file.
 - `Question2.py`: Merges mortgage data with Treasury yields and calculates the spread
 - `Question2B.py`: Generates plots showing the evolution of correlations and betas
 
